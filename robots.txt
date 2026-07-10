@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://dealbazaar-site.vercel.app/sitemap.xml
